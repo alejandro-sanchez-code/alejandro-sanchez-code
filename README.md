@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Tecnologías conocidas <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"/>
+## ⚙️ Tecnologías conocidas <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,git,github,maven,gradle,postman,docker,junit,swagger" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 📫 Contacto <img src="//media.giphy.com/media/8yvdQMhayX1zbMou11/giphy.gif" width="40"/>
+## 📫 Contacto <img src="https://media.giphy.com/media/8yvdQMhayX1zbMou11/giphy.gif" width="40"/>
 
 <p align="center">
   <a href="mailto:alejandrosd32@gmail.com" target="_blank">

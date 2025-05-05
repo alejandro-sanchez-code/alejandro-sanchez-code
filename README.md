@@ -28,7 +28,7 @@
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAi/programming.gif" width="50" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,git,github,maven,gradle,postman,docker,html,css,jwt,swagger" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,git,github,maven,gradle,postman,docker,jwt,swagger" />
 </p>
 
 ---

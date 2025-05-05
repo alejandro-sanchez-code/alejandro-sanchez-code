@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Acerca de mí <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="40"/>
+## 💻 Acerca de mí <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="60"/>
 
 🔧 Backend Developer especializado en **Java** y **Spring Boot**, enfocado en crear **APIs RESTful** seguras y eficientes.  
 🛠 Manejo sólido de **bases de datos relacionales** y consultas SQL.  
@@ -28,7 +28,7 @@
 
 ---
 
-## 📫 Contacto <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40"/>
+## 📫 Contacto <img src="//media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN252YW1zbnBtc296dWo2amdpaDJ4eDNlenpmYWFmcHA4aTVqMHl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8yvdQMhayX1zbMou11/giphy.gif" width="60"/>
 
 <p align="center">
   <a href="mailto:alejandrosd32@gmail.com" target="_blank">
